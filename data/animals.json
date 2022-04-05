@@ -108,6 +108,24 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Ozzy",
+      "species": "Dog",
+      "diet": "Omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Oz",
+      "species": "Doggo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
